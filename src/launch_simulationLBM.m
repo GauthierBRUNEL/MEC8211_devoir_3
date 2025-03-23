@@ -14,6 +14,8 @@
 % 
 % NX: domain lateral size in grid cell
 
+addpath('src');
+
 seed=3;
 deltaP= 0.1 ; % pressure drop in Pa
 NX= 125 ;

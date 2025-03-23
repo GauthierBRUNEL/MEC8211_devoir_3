@@ -1,6 +1,6 @@
 % Chargement des données
 % Remplace 'data.csv' par le nom de ton fichier si nécessaire
-data = readtable('data.csv');
+data = readtable('../data/data.csv');
 
 % Extraction des variables
 delta_x = data.delta_x;
@@ -19,6 +19,7 @@ plot(delta_x, poro_eff_norm, '-o', 'DisplayName', 'Porosité Normalisée');
 hold on;
 plot(delta_x, Re_norm, '-s', 'DisplayName', 'Re Normalisé');
 plot(delta_x, k_micron2_norm, '-^', 'DisplayName', 'k_micron2 Normalisé');
+saveas(gcf, '../results/Convergence_plot.png');
 
 % Mise en forme du graphique
 grid on;

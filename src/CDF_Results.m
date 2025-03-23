@@ -1,9 +1,6 @@
 clc; clear; close all;
 
-% Nom du fichier contenant les résultats
-filename = 'results_LBM.txt';
-
-% Ouvrir et lire le fichier ligne par ligne
+filename = 'data/results_LBM.txt'; % Lire depuis /data
 fid = fopen(filename, 'r');
 if fid == -1
     error('Impossible d''ouvrir le fichier de résultats.');
@@ -51,6 +48,7 @@ grid on;
 xlabel('Perméabilité calculée (\mum^2)');
 ylabel('Probabilité cumulative (CDF)');
 title('Fonction de Répartition Empirique (CDF) de la Perméabilité');
+saveas(gcf, '../results/CDF_plot.png');
 
 % 🎨 **Tracer la PDF**
 figure;
@@ -59,6 +57,7 @@ grid on;
 xlabel('Perméabilité calculée (\mum^2)');
 ylabel('Densité de probabilité (PDF)');
 title('Densité de Probabilité (PDF) de la Perméabilité');
+saveas(gcf, '../results/PDF_plot.png');
 
 %%
 % Vérifier que des données sont disponibles

@@ -28,8 +28,9 @@ xlabel('Porosité (-)'); ylabel('Densité'); title('Distribution - Porosité');
 subplot(3,1,3);
 histogram(permeabilite, 30, 'Normalization', 'pdf');
 xlabel('Perméabilité (µm²)'); ylabel('Densité'); title('Distribution - Perméabilité');
+saveas(gcf, '../results/LHS_distributions.png');
 
 % Stocker les données si besoin
 %data = table(diametre_fibres, porosite, permeabilite);
 data = table(porosite, permeabilite);
-writetable(data, 'LHS_samples.csv'); % Sauvegarde en CSV
+writetable(data, '../data/LHS_samples.csv');

@@ -1,7 +1,9 @@
+addpath('src');
+
 clc; clear; close all;
 
 % Charger les échantillons générés par LHS
-data = readtable('LHS_samples.csv');
+data = readtable('../data/LHS_samples.csv');
 
 % Nombre d'échantillons
 N_samples = height(data);
@@ -16,8 +18,9 @@ dx = 0.000002; % Taille de la grille en m
 filename = 'fiber_mat.tiff';
 
 % Ouvrir un fichier pour enregistrer les résultats
-output_file = 'results_LBM.txt';
+output_file = 'data/results_LBM.txt'; % Déplacer vers /data
 fid = fopen(output_file, 'w');
+
 
 % Vérifier si le fichier s'est bien ouvert
 if fid == -1
