@@ -18,7 +18,7 @@ dx = 0.000002; % Taille de la grille en m
 filename = 'fiber_mat.tiff';
 
 % Ouvrir un fichier pour enregistrer les résultats
-output_file = 'data/results_LBM.txt'; % Déplacer vers /data
+output_file = '../data/results_LBM.txt'; % Déplacer vers /data
 fid = fopen(output_file, 'w');
 
 

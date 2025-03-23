@@ -1,6 +1,9 @@
+addpath('src');
+
+
 clc; clear; close all;
 
-filename = 'data/results_LBM.txt'; % Lire depuis /data
+filename = '../data/results_LBM.txt'; % Lire depuis /data
 fid = fopen(filename, 'r');
 if fid == -1
     error('Impossible d''ouvrir le fichier de résultats.');
