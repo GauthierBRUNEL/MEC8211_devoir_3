@@ -1,184 +1,1602 @@
 Sample 1:
 Diamètre moyen des fibres: 12.500 µm
-Porosité: 0.891953
-Perméabilité LHS: 61.231 µm²
-Perméabilité calculée: 18.584 µm²
-Porosité effective: 0.888000
-Nombre de Reynolds: 0.002930
----------------------------------------
-Sample 2:
-Diamètre moyen des fibres: 12.500 µm
-Porosité: 0.908290
-Perméabilité LHS: 100.204 µm²
+Porosité: 0.906278
+Perméabilité LHS: 71.805 µm²
 Perméabilité calculée: 23.438 µm²
 Porosité effective: 0.903000
 Nombre de Reynolds: 0.004225
 ---------------------------------------
-Sample 3:
+Sample 2:
 Diamètre moyen des fibres: 12.500 µm
-Porosité: 0.923186
-Perméabilité LHS: 89.505 µm²
-Perméabilité calculée: 25.972 µm²
-Porosité effective: 0.916900
-Nombre de Reynolds: 0.005568
----------------------------------------
-Sample 4:
-Diamètre moyen des fibres: 12.500 µm
-Porosité: 0.895707
-Perméabilité LHS: 84.017 µm²
+Porosité: 0.897150
+Perméabilité LHS: 95.348 µm²
 Perméabilité calculée: 22.375 µm²
 Porosité effective: 0.892800
 Nombre de Reynolds: 0.003681
 ---------------------------------------
+Sample 3:
+Diamètre moyen des fibres: 12.500 µm
+Porosité: 0.909679
+Perméabilité LHS: 69.502 µm²
+Perméabilité calculée: 25.064 µm²
+Porosité effective: 0.907800
+Nombre de Reynolds: 0.004742
+---------------------------------------
+Sample 4:
+Diamètre moyen des fibres: 12.500 µm
+Porosité: 0.893570
+Perméabilité LHS: 73.855 µm²
+Perméabilité calculée: 18.584 µm²
+Porosité effective: 0.888000
+Nombre de Reynolds: 0.002930
+---------------------------------------
 Sample 5:
 Diamètre moyen des fibres: 12.500 µm
-Porosité: 0.903987
-Perméabilité LHS: 76.949 µm²
+Porosité: 0.902777
+Perméabilité LHS: 82.660 µm²
 Perméabilité calculée: 23.805 µm²
 Porosité effective: 0.899600
 Nombre de Reynolds: 0.004143
 ---------------------------------------
 Sample 6:
 Diamètre moyen des fibres: 12.500 µm
-Porosité: 0.894472
-Perméabilité LHS: 65.326 µm²
-Perméabilité calculée: 18.584 µm²
-Porosité effective: 0.888000
-Nombre de Reynolds: 0.002930
----------------------------------------
-Sample 7:
-Diamètre moyen des fibres: 12.500 µm
-Porosité: 0.886646
-Perméabilité LHS: 81.499 µm²
-Perméabilité calculée: 15.848 µm²
-Porosité effective: 0.884000
-Nombre de Reynolds: 0.002381
----------------------------------------
-Sample 8:
-Diamètre moyen des fibres: 12.500 µm
-Porosité: 0.910469
-Perméabilité LHS: 76.439 µm²
-Perméabilité calculée: 25.064 µm²
-Porosité effective: 0.907800
-Nombre de Reynolds: 0.004742
----------------------------------------
-Sample 9:
-Diamètre moyen des fibres: 12.500 µm
-Porosité: 0.904996
-Perméabilité LHS: 111.203 µm²
+Porosité: 0.905428
+Perméabilité LHS: 85.559 µm²
 Perméabilité calculée: 23.438 µm²
 Porosité effective: 0.903000
 Nombre de Reynolds: 0.004225
 ---------------------------------------
-Sample 10:
+Sample 7:
 Diamètre moyen des fibres: 12.500 µm
-Porosité: 0.895452
-Perméabilité LHS: 83.116 µm²
+Porosité: 0.898649
+Perméabilité LHS: 74.151 µm²
 Perméabilité calculée: 22.375 µm²
 Porosité effective: 0.892800
 Nombre de Reynolds: 0.003681
 ---------------------------------------
+Sample 8:
+Diamètre moyen des fibres: 12.500 µm
+Porosité: 0.900560
+Perméabilité LHS: 71.964 µm²
+Perméabilité calculée: 23.805 µm²
+Porosité effective: 0.899600
+Nombre de Reynolds: 0.004143
+---------------------------------------
+Sample 9:
+Diamètre moyen des fibres: 12.500 µm
+Porosité: 0.895009
+Perméabilité LHS: 83.126 µm²
+Perméabilité calculée: 22.375 µm²
+Porosité effective: 0.892800
+Nombre de Reynolds: 0.003681
+---------------------------------------
+Sample 10:
+Diamètre moyen des fibres: 12.500 µm
+Porosité: 0.893965
+Perméabilité LHS: 72.244 µm²
+Perméabilité calculée: 18.584 µm²
+Porosité effective: 0.888000
+Nombre de Reynolds: 0.002930
+---------------------------------------
 Sample 11:
 Diamètre moyen des fibres: 12.500 µm
-Porosité: 0.900809
-Perméabilité LHS: 77.098 µm²
+Porosité: 0.901727
+Perméabilité LHS: 96.048 µm²
 Perméabilité calculée: 23.805 µm²
 Porosité effective: 0.899600
 Nombre de Reynolds: 0.004143
 ---------------------------------------
 Sample 12:
 Diamètre moyen des fibres: 12.500 µm
-Porosité: 0.897806
-Perméabilité LHS: 79.321 µm²
+Porosité: 0.913394
+Perméabilité LHS: 92.879 µm²
+Perméabilité calculée: 24.972 µm²
+Porosité effective: 0.910600
+Nombre de Reynolds: 0.004870
+---------------------------------------
+Sample 13:
+Diamètre moyen des fibres: 12.500 µm
+Porosité: 0.899014
+Perméabilité LHS: 59.308 µm²
 Perméabilité calculée: 22.375 µm²
 Porosité effective: 0.892800
 Nombre de Reynolds: 0.003681
 ---------------------------------------
-Sample 13:
+Sample 14:
 Diamètre moyen des fibres: 12.500 µm
-Porosité: 0.888432
-Perméabilité LHS: 71.279 µm²
+Porosité: 0.888170
+Perméabilité LHS: 88.719 µm²
 Perméabilité calculée: 15.848 µm²
 Porosité effective: 0.884000
 Nombre de Reynolds: 0.002381
 ---------------------------------------
-Sample 14:
-Diamètre moyen des fibres: 12.500 µm
-Porosité: 0.878914
-Perméabilité LHS: 107.186 µm²
-Perméabilité calculée: 20.563 µm²
-Porosité effective: 0.872600
-Nombre de Reynolds: 0.002786
----------------------------------------
 Sample 15:
 Diamètre moyen des fibres: 12.500 µm
-Porosité: 0.899494
-Perméabilité LHS: 88.827 µm²
+Porosité: 0.899098
+Perméabilité LHS: 106.131 µm²
 Perméabilité calculée: 22.375 µm²
 Porosité effective: 0.892800
 Nombre de Reynolds: 0.003681
 ---------------------------------------
 Sample 16:
 Diamètre moyen des fibres: 12.500 µm
-Porosité: 0.896060
-Perméabilité LHS: 81.015 µm²
-Perméabilité calculée: 22.375 µm²
-Porosité effective: 0.892800
-Nombre de Reynolds: 0.003681
+Porosité: 0.907040
+Perméabilité LHS: 69.963 µm²
+Perméabilité calculée: 23.438 µm²
+Porosité effective: 0.903000
+Nombre de Reynolds: 0.004225
 ---------------------------------------
 Sample 17:
 Diamètre moyen des fibres: 12.500 µm
-Porosité: 0.894899
-Perméabilité LHS: 95.425 µm²
+Porosité: 0.896854
+Perméabilité LHS: 86.222 µm²
 Perméabilité calculée: 22.375 µm²
 Porosité effective: 0.892800
 Nombre de Reynolds: 0.003681
 ---------------------------------------
 Sample 18:
 Diamètre moyen des fibres: 12.500 µm
-Porosité: 0.893383
-Perméabilité LHS: 79.032 µm²
+Porosité: 0.900425
+Perméabilité LHS: 70.850 µm²
+Perméabilité calculée: 23.805 µm²
+Porosité effective: 0.899600
+Nombre de Reynolds: 0.004143
+---------------------------------------
+Sample 19:
+Diamètre moyen des fibres: 12.500 µm
+Porosité: 0.900805
+Perméabilité LHS: 70.084 µm²
+Perméabilité calculée: 23.805 µm²
+Porosité effective: 0.899600
+Nombre de Reynolds: 0.004143
+---------------------------------------
+Sample 20:
+Diamètre moyen des fibres: 12.500 µm
+Porosité: 0.893435
+Perméabilité LHS: 64.626 µm²
 Perméabilité calculée: 18.584 µm²
 Porosité effective: 0.888000
 Nombre de Reynolds: 0.002930
 ---------------------------------------
-Sample 19:
+Sample 21:
 Diamètre moyen des fibres: 12.500 µm
-Porosité: 0.885167
-Perméabilité LHS: 78.153 µm²
-Perméabilité calculée: 23.222 µm²
-Porosité effective: 0.880500
-Nombre de Reynolds: 0.003386
+Porosité: 0.894416
+Perméabilité LHS: 58.560 µm²
+Perméabilité calculée: 18.584 µm²
+Porosité effective: 0.888000
+Nombre de Reynolds: 0.002930
 ---------------------------------------
-Sample 20:
+Sample 22:
 Diamètre moyen des fibres: 12.500 µm
-Porosité: 0.895311
-Perméabilité LHS: 71.605 µm²
+Porosité: 0.908952
+Perméabilité LHS: 98.084 µm²
+Perméabilité calculée: 25.064 µm²
+Porosité effective: 0.907800
+Nombre de Reynolds: 0.004742
+---------------------------------------
+Sample 23:
+Diamètre moyen des fibres: 12.500 µm
+Porosité: 0.893260
+Perméabilité LHS: 89.159 µm²
+Perméabilité calculée: 18.584 µm²
+Porosité effective: 0.888000
+Nombre de Reynolds: 0.002930
+---------------------------------------
+Sample 24:
+Diamètre moyen des fibres: 12.500 µm
+Porosité: 0.898923
+Perméabilité LHS: 78.932 µm²
 Perméabilité calculée: 22.375 µm²
 Porosité effective: 0.892800
 Nombre de Reynolds: 0.003681
 ---------------------------------------
-Sample 21:
+Sample 25:
 Diamètre moyen des fibres: 12.500 µm
-Porosité: 0.901095
-Perméabilité LHS: 71.033 µm²
-Perméabilité calculée: 23.805 µm²
-Porosité effective: 0.899600
-Nombre de Reynolds: 0.004143
+Porosité: 0.897824
+Perméabilité LHS: 103.234 µm²
+Perméabilité calculée: 22.375 µm²
+Porosité effective: 0.892800
+Nombre de Reynolds: 0.003681
 ---------------------------------------
-Sample 22:
+Sample 26:
 Diamètre moyen des fibres: 12.500 µm
-Porosité: 0.891718
-Perméabilité LHS: 99.215 µm²
+Porosité: 0.906480
+Perméabilité LHS: 79.543 µm²
+Perméabilité calculée: 23.438 µm²
+Porosité effective: 0.903000
+Nombre de Reynolds: 0.004225
+---------------------------------------
+Sample 27:
+Diamètre moyen des fibres: 12.500 µm
+Porosité: 0.892312
+Perméabilité LHS: 87.232 µm²
 Perméabilité calculée: 18.584 µm²
 Porosité effective: 0.888000
 Nombre de Reynolds: 0.002930
 ---------------------------------------
-Sample 23:
+Sample 28:
 Diamètre moyen des fibres: 12.500 µm
-Porosité: 0.903468
-Perméabilité LHS: 90.930 µm²
+Porosité: 0.889924
+Perméabilité LHS: 115.381 µm²
+Perméabilité calculée: 15.848 µm²
+Porosité effective: 0.885600
+Nombre de Reynolds: 0.002433
+---------------------------------------
+Sample 29:
+Diamètre moyen des fibres: 12.500 µm
+Porosité: 0.892669
+Perméabilité LHS: 86.860 µm²
+Perméabilité calculée: 18.584 µm²
+Porosité effective: 0.888000
+Nombre de Reynolds: 0.002930
+---------------------------------------
+Sample 30:
+Diamètre moyen des fibres: 12.500 µm
+Porosité: 0.892412
+Perméabilité LHS: 75.747 µm²
+Perméabilité calculée: 18.584 µm²
+Porosité effective: 0.888000
+Nombre de Reynolds: 0.002930
+---------------------------------------
+Sample 31:
+Diamètre moyen des fibres: 12.500 µm
+Porosité: 0.919594
+Perméabilité LHS: 49.905 µm²
+Perméabilité calculée: 25.502 µm²
+Porosité effective: 0.914300
+Nombre de Reynolds: 0.005268
+---------------------------------------
+Sample 32:
+Diamètre moyen des fibres: 12.500 µm
+Porosité: 0.890423
+Perméabilité LHS: 67.092 µm²
+Perméabilité calculée: 15.848 µm²
+Porosité effective: 0.885600
+Nombre de Reynolds: 0.002433
+---------------------------------------
+Sample 33:
+Diamètre moyen des fibres: 12.500 µm
+Porosité: 0.900230
+Perméabilité LHS: 94.100 µm²
 Perméabilité calculée: 23.805 µm²
 Porosité effective: 0.899600
 Nombre de Reynolds: 0.004143
 ---------------------------------------
+Sample 34:
+Diamètre moyen des fibres: 12.500 µm
+Porosité: 0.911207
+Perméabilité LHS: 69.098 µm²
+Perméabilité calculée: 25.064 µm²
+Porosité effective: 0.907800
+Nombre de Reynolds: 0.004742
+---------------------------------------
+Sample 35:
+Diamètre moyen des fibres: 12.500 µm
+Porosité: 0.883376
+Perméabilité LHS: 82.561 µm²
+Perméabilité calculée: 23.222 µm²
+Porosité effective: 0.880500
+Nombre de Reynolds: 0.003386
+---------------------------------------
+Sample 36:
+Diamètre moyen des fibres: 12.500 µm
+Porosité: 0.897246
+Perméabilité LHS: 93.774 µm²
+Perméabilité calculée: 22.375 µm²
+Porosité effective: 0.892800
+Nombre de Reynolds: 0.003681
+---------------------------------------
+Sample 37:
+Diamètre moyen des fibres: 12.500 µm
+Porosité: 0.903371
+Perméabilité LHS: 87.549 µm²
+Perméabilité calculée: 23.805 µm²
+Porosité effective: 0.899600
+Nombre de Reynolds: 0.004143
+---------------------------------------
+Sample 38:
+Diamètre moyen des fibres: 12.500 µm
+Porosité: 0.907493
+Perméabilité LHS: 53.445 µm²
+Perméabilité calculée: 23.438 µm²
+Porosité effective: 0.903000
+Nombre de Reynolds: 0.004225
+---------------------------------------
+Sample 39:
+Diamètre moyen des fibres: 12.500 µm
+Porosité: 0.906059
+Perméabilité LHS: 62.383 µm²
+Perméabilité calculée: 23.438 µm²
+Porosité effective: 0.903000
+Nombre de Reynolds: 0.004225
+---------------------------------------
+Sample 40:
+Diamètre moyen des fibres: 12.500 µm
+Porosité: 0.904412
+Perméabilité LHS: 81.238 µm²
+Perméabilité calculée: 23.805 µm²
+Porosité effective: 0.899600
+Nombre de Reynolds: 0.004143
+---------------------------------------
+Sample 41:
+Diamètre moyen des fibres: 12.500 µm
+Porosité: 0.885825
+Perméabilité LHS: 79.293 µm²
+Perméabilité calculée: 23.222 µm²
+Porosité effective: 0.880500
+Nombre de Reynolds: 0.003386
+---------------------------------------
+Sample 42:
+Diamètre moyen des fibres: 12.500 µm
+Porosité: 0.899308
+Perméabilité LHS: 44.678 µm²
+Perméabilité calculée: 22.375 µm²
+Porosité effective: 0.892800
+Nombre de Reynolds: 0.003681
+---------------------------------------
+Sample 43:
+Diamètre moyen des fibres: 12.500 µm
+Porosité: 0.910044
+Perméabilité LHS: 82.177 µm²
+Perméabilité calculée: 25.064 µm²
+Porosité effective: 0.907800
+Nombre de Reynolds: 0.004742
+---------------------------------------
+Sample 44:
+Diamètre moyen des fibres: 12.500 µm
+Porosité: 0.905881
+Perméabilité LHS: 58.295 µm²
+Perméabilité calculée: 23.438 µm²
+Porosité effective: 0.903000
+Nombre de Reynolds: 0.004225
+---------------------------------------
+Sample 45:
+Diamètre moyen des fibres: 12.500 µm
+Porosité: 0.907665
+Perméabilité LHS: 75.389 µm²
+Perméabilité calculée: 23.438 µm²
+Porosité effective: 0.903000
+Nombre de Reynolds: 0.004225
+---------------------------------------
+Sample 46:
+Diamètre moyen des fibres: 12.500 µm
+Porosité: 0.899790
+Perméabilité LHS: 102.267 µm²
+Perméabilité calculée: 22.375 µm²
+Porosité effective: 0.892800
+Nombre de Reynolds: 0.003681
+---------------------------------------
+Sample 47:
+Diamètre moyen des fibres: 12.500 µm
+Porosité: 0.889389
+Perméabilité LHS: 81.432 µm²
+Perméabilité calculée: 15.848 µm²
+Porosité effective: 0.885600
+Nombre de Reynolds: 0.002433
+---------------------------------------
+Sample 48:
+Diamètre moyen des fibres: 12.500 µm
+Porosité: 0.894125
+Perméabilité LHS: 104.713 µm²
+Perméabilité calculée: 18.584 µm²
+Porosité effective: 0.888000
+Nombre de Reynolds: 0.002930
+---------------------------------------
+Sample 49:
+Diamètre moyen des fibres: 12.500 µm
+Porosité: 0.896041
+Perméabilité LHS: 66.319 µm²
+Perméabilité calculée: 22.375 µm²
+Porosité effective: 0.892800
+Nombre de Reynolds: 0.003681
+---------------------------------------
+Sample 50:
+Diamètre moyen des fibres: 12.500 µm
+Porosité: 0.901318
+Perméabilité LHS: 61.487 µm²
+Perméabilité calculée: 23.805 µm²
+Porosité effective: 0.899600
+Nombre de Reynolds: 0.004143
+---------------------------------------
+Sample 51:
+Diamètre moyen des fibres: 12.500 µm
+Porosité: 0.902182
+Perméabilité LHS: 98.853 µm²
+Perméabilité calculée: 23.805 µm²
+Porosité effective: 0.899600
+Nombre de Reynolds: 0.004143
+---------------------------------------
+Sample 52:
+Diamètre moyen des fibres: 12.500 µm
+Porosité: 0.900118
+Perméabilité LHS: 100.894 µm²
+Perméabilité calculée: 23.805 µm²
+Porosité effective: 0.899600
+Nombre de Reynolds: 0.004143
+---------------------------------------
+Sample 53:
+Diamètre moyen des fibres: 12.500 µm
+Porosité: 0.901017
+Perméabilité LHS: 82.371 µm²
+Perméabilité calculée: 23.805 µm²
+Porosité effective: 0.899600
+Nombre de Reynolds: 0.004143
+---------------------------------------
+Sample 54:
+Diamètre moyen des fibres: 12.500 µm
+Porosité: 0.897047
+Perméabilité LHS: 96.990 µm²
+Perméabilité calculée: 22.375 µm²
+Porosité effective: 0.892800
+Nombre de Reynolds: 0.003681
+---------------------------------------
+Sample 55:
+Diamètre moyen des fibres: 12.500 µm
+Porosité: 0.897629
+Perméabilité LHS: 72.845 µm²
+Perméabilité calculée: 22.375 µm²
+Porosité effective: 0.892800
+Nombre de Reynolds: 0.003681
+---------------------------------------
+Sample 56:
+Diamètre moyen des fibres: 12.500 µm
+Porosité: 0.882235
+Perméabilité LHS: 75.098 µm²
+Perméabilité calculée: 17.058 µm²
+Porosité effective: 0.876000
+Nombre de Reynolds: 0.002386
+---------------------------------------
+Sample 57:
+Diamètre moyen des fibres: 12.500 µm
+Porosité: 0.916669
+Perméabilité LHS: 86.037 µm²
+Perméabilité calculée: 25.192 µm²
+Porosité effective: 0.913000
+Nombre de Reynolds: 0.005078
+---------------------------------------
+Sample 58:
+Diamètre moyen des fibres: 12.500 µm
+Porosité: 0.894731
+Perméabilité LHS: 76.257 µm²
+Perméabilité calculée: 18.584 µm²
+Porosité effective: 0.888000
+Nombre de Reynolds: 0.002930
+---------------------------------------
+Sample 59:
+Diamètre moyen des fibres: 12.500 µm
+Porosité: 0.895692
+Perméabilité LHS: 68.582 µm²
+Perméabilité calculée: 22.375 µm²
+Porosité effective: 0.892800
+Nombre de Reynolds: 0.003681
+---------------------------------------
+Sample 60:
+Diamètre moyen des fibres: 12.500 µm
+Porosité: 0.895927
+Perméabilité LHS: 88.911 µm²
+Perméabilité calculée: 22.375 µm²
+Porosité effective: 0.892800
+Nombre de Reynolds: 0.003681
+---------------------------------------
+Sample 61:
+Diamètre moyen des fibres: 12.500 µm
+Porosité: 0.890650
+Perméabilité LHS: 80.378 µm²
+Perméabilité calculée: 15.848 µm²
+Porosité effective: 0.885600
+Nombre de Reynolds: 0.002433
+---------------------------------------
+Sample 62:
+Diamètre moyen des fibres: 12.500 µm
+Porosité: 0.904858
+Perméabilité LHS: 63.087 µm²
+Perméabilité calculée: 23.805 µm²
+Porosité effective: 0.899600
+Nombre de Reynolds: 0.004143
+---------------------------------------
+Sample 63:
+Diamètre moyen des fibres: 12.500 µm
+Porosité: 0.895066
+Perméabilité LHS: 63.918 µm²
+Perméabilité calculée: 22.375 µm²
+Porosité effective: 0.892800
+Nombre de Reynolds: 0.003681
+---------------------------------------
+Sample 64:
+Diamètre moyen des fibres: 12.500 µm
+Porosité: 0.900592
+Perméabilité LHS: 103.536 µm²
+Perméabilité calculée: 23.805 µm²
+Porosité effective: 0.899600
+Nombre de Reynolds: 0.004143
+---------------------------------------
+Sample 65:
+Diamètre moyen des fibres: 12.500 µm
+Porosité: 0.917785
+Perméabilité LHS: 68.003 µm²
+Perméabilité calculée: 25.192 µm²
+Porosité effective: 0.913000
+Nombre de Reynolds: 0.005078
+---------------------------------------
+Sample 66:
+Diamètre moyen des fibres: 12.500 µm
+Porosité: 0.906652
+Perméabilité LHS: 52.714 µm²
+Perméabilité calculée: 23.438 µm²
+Porosité effective: 0.903000
+Nombre de Reynolds: 0.004225
+---------------------------------------
+Sample 67:
+Diamètre moyen des fibres: 12.500 µm
+Porosité: 0.902663
+Perméabilité LHS: 72.368 µm²
+Perméabilité calculée: 23.805 µm²
+Porosité effective: 0.899600
+Nombre de Reynolds: 0.004143
+---------------------------------------
+Sample 68:
+Diamètre moyen des fibres: 12.500 µm
+Porosité: 0.902017
+Perméabilité LHS: 70.961 µm²
+Perméabilité calculée: 23.805 µm²
+Porosité effective: 0.899600
+Nombre de Reynolds: 0.004143
+---------------------------------------
+Sample 69:
+Diamètre moyen des fibres: 12.500 µm
+Porosité: 0.896927
+Perméabilité LHS: 66.644 µm²
+Perméabilité calculée: 22.375 µm²
+Porosité effective: 0.892800
+Nombre de Reynolds: 0.003681
+---------------------------------------
+Sample 70:
+Diamètre moyen des fibres: 12.500 µm
+Porosité: 0.891525
+Perméabilité LHS: 102.685 µm²
+Perméabilité calculée: 18.584 µm²
+Porosité effective: 0.888000
+Nombre de Reynolds: 0.002930
+---------------------------------------
+Sample 71:
+Diamètre moyen des fibres: 12.500 µm
+Porosité: 0.888704
+Perméabilité LHS: 56.837 µm²
+Perméabilité calculée: 15.848 µm²
+Porosité effective: 0.884000
+Nombre de Reynolds: 0.002381
+---------------------------------------
+Sample 72:
+Diamètre moyen des fibres: 12.500 µm
+Porosité: 0.901690
+Perméabilité LHS: 99.408 µm²
+Perméabilité calculée: 23.805 µm²
+Porosité effective: 0.899600
+Nombre de Reynolds: 0.004143
+---------------------------------------
+Sample 73:
+Diamètre moyen des fibres: 12.500 µm
+Porosité: 0.902422
+Perméabilité LHS: 65.383 µm²
+Perméabilité calculée: 23.805 µm²
+Porosité effective: 0.899600
+Nombre de Reynolds: 0.004143
+---------------------------------------
+Sample 74:
+Diamètre moyen des fibres: 12.500 µm
+Porosité: 0.905379
+Perméabilité LHS: 89.266 µm²
+Perméabilité calculée: 23.438 µm²
+Porosité effective: 0.903000
+Nombre de Reynolds: 0.004225
+---------------------------------------
+Sample 75:
+Diamètre moyen des fibres: 12.500 µm
+Porosité: 0.901493
+Perméabilité LHS: 94.666 µm²
+Perméabilité calculée: 23.805 µm²
+Porosité effective: 0.899600
+Nombre de Reynolds: 0.004143
+---------------------------------------
+Sample 76:
+Diamètre moyen des fibres: 12.500 µm
+Porosité: 0.893825
+Perméabilité LHS: 75.151 µm²
+Perméabilité calculée: 18.584 µm²
+Porosité effective: 0.888000
+Nombre de Reynolds: 0.002930
+---------------------------------------
+Sample 77:
+Diamètre moyen des fibres: 12.500 µm
+Porosité: 0.896168
+Perméabilité LHS: 80.199 µm²
+Perméabilité calculée: 22.375 µm²
+Porosité effective: 0.892800
+Nombre de Reynolds: 0.003681
+---------------------------------------
+Sample 78:
+Diamètre moyen des fibres: 12.500 µm
+Porosité: 0.904057
+Perméabilité LHS: 83.536 µm²
+Perméabilité calculée: 23.805 µm²
+Porosité effective: 0.899600
+Nombre de Reynolds: 0.004143
+---------------------------------------
+Sample 79:
+Diamètre moyen des fibres: 12.500 µm
+Porosité: 0.915900
+Perméabilité LHS: 80.678 µm²
+Perméabilité calculée: 24.972 µm²
+Porosité effective: 0.910600
+Nombre de Reynolds: 0.004870
+---------------------------------------
+Sample 80:
+Diamètre moyen des fibres: 12.500 µm
+Porosité: 0.884572
+Perméabilité LHS: 70.563 µm²
+Perméabilité calculée: 23.222 µm²
+Porosité effective: 0.880500
+Nombre de Reynolds: 0.003386
+---------------------------------------
+Sample 81:
+Diamètre moyen des fibres: 12.500 µm
+Porosité: 0.901955
+Perméabilité LHS: 91.360 µm²
+Perméabilité calculée: 23.805 µm²
+Porosité effective: 0.899600
+Nombre de Reynolds: 0.004143
+---------------------------------------
+Sample 82:
+Diamètre moyen des fibres: 12.500 µm
+Porosité: 0.902208
+Perméabilité LHS: 68.476 µm²
+Perméabilité calculée: 23.805 µm²
+Porosité effective: 0.899600
+Nombre de Reynolds: 0.004143
+---------------------------------------
+Sample 83:
+Diamètre moyen des fibres: 12.500 µm
+Porosité: 0.898140
+Perméabilité LHS: 82.975 µm²
+Perméabilité calculée: 22.375 µm²
+Porosité effective: 0.892800
+Nombre de Reynolds: 0.003681
+---------------------------------------
+Sample 84:
+Diamètre moyen des fibres: 12.500 µm
+Porosité: 0.901404
+Perméabilité LHS: 59.945 µm²
+Perméabilité calculée: 23.805 µm²
+Porosité effective: 0.899600
+Nombre de Reynolds: 0.004143
+---------------------------------------
+Sample 85:
+Diamètre moyen des fibres: 12.500 µm
+Porosité: 0.908675
+Perméabilité LHS: 101.282 µm²
+Perméabilité calculée: 23.438 µm²
+Porosité effective: 0.903000
+Nombre de Reynolds: 0.004225
+---------------------------------------
+Sample 86:
+Diamètre moyen des fibres: 12.500 µm
+Porosité: 0.891198
+Perméabilité LHS: 76.314 µm²
+Perméabilité calculée: 18.584 µm²
+Porosité effective: 0.888000
+Nombre de Reynolds: 0.002930
+---------------------------------------
+Sample 87:
+Diamètre moyen des fibres: 12.500 µm
+Porosité: 0.894839
+Perméabilité LHS: 76.856 µm²
+Perméabilité calculée: 22.375 µm²
+Porosité effective: 0.892800
+Nombre de Reynolds: 0.003681
+---------------------------------------
+Sample 88:
+Diamètre moyen des fibres: 12.500 µm
+Porosité: 0.890851
+Perméabilité LHS: 113.315 µm²
+Perméabilité calculée: 15.848 µm²
+Porosité effective: 0.885600
+Nombre de Reynolds: 0.002433
+---------------------------------------
+Sample 89:
+Diamètre moyen des fibres: 12.500 µm
+Porosité: 0.907432
+Perméabilité LHS: 85.381 µm²
+Perméabilité calculée: 23.438 µm²
+Porosité effective: 0.903000
+Nombre de Reynolds: 0.004225
+---------------------------------------
+Sample 90:
+Diamètre moyen des fibres: 12.500 µm
+Porosité: 0.890060
+Perméabilité LHS: 70.437 µm²
+Perméabilité calculée: 15.848 µm²
+Porosité effective: 0.885600
+Nombre de Reynolds: 0.002433
+---------------------------------------
+Sample 91:
+Diamètre moyen des fibres: 12.500 µm
+Porosité: 0.898384
+Perméabilité LHS: 78.418 µm²
+Perméabilité calculée: 22.375 µm²
+Porosité effective: 0.892800
+Nombre de Reynolds: 0.003681
+---------------------------------------
+Sample 92:
+Diamètre moyen des fibres: 12.500 µm
+Porosité: 0.900937
+Perméabilité LHS: 86.641 µm²
+Perméabilité calculée: 23.805 µm²
+Porosité effective: 0.899600
+Nombre de Reynolds: 0.004143
+---------------------------------------
+Sample 93:
+Diamètre moyen des fibres: 12.500 µm
+Porosité: 0.903449
+Perméabilité LHS: 77.306 µm²
+Perméabilité calculée: 23.805 µm²
+Porosité effective: 0.899600
+Nombre de Reynolds: 0.004143
+---------------------------------------
+Sample 94:
+Diamètre moyen des fibres: 12.500 µm
+Porosité: 0.902527
+Perméabilité LHS: 71.493 µm²
+Perméabilité calculée: 23.805 µm²
+Porosité effective: 0.899600
+Nombre de Reynolds: 0.004143
+---------------------------------------
+Sample 95:
+Diamètre moyen des fibres: 12.500 µm
+Porosité: 0.897433
+Perméabilité LHS: 88.332 µm²
+Perméabilité calculée: 22.375 µm²
+Porosité effective: 0.892800
+Nombre de Reynolds: 0.003681
+---------------------------------------
+Sample 96:
+Diamètre moyen des fibres: 12.500 µm
+Porosité: 0.907951
+Perméabilité LHS: 84.418 µm²
+Perméabilité calculée: 23.438 µm²
+Porosité effective: 0.903000
+Nombre de Reynolds: 0.004225
+---------------------------------------
+Sample 97:
+Diamètre moyen des fibres: 12.500 µm
+Porosité: 0.898766
+Perméabilité LHS: 79.318 µm²
+Perméabilité calculée: 22.375 µm²
+Porosité effective: 0.892800
+Nombre de Reynolds: 0.003681
+---------------------------------------
+Sample 98:
+Diamètre moyen des fibres: 12.500 µm
+Porosité: 0.898516
+Perméabilité LHS: 93.299 µm²
+Perméabilité calculée: 22.375 µm²
+Porosité effective: 0.892800
+Nombre de Reynolds: 0.003681
+---------------------------------------
+Sample 99:
+Diamètre moyen des fibres: 12.500 µm
+Porosité: 0.889473
+Perméabilité LHS: 55.829 µm²
+Perméabilité calculée: 15.848 µm²
+Porosité effective: 0.885600
+Nombre de Reynolds: 0.002433
+---------------------------------------
+Sample 100:
+Diamètre moyen des fibres: 12.500 µm
+Porosité: 0.903207
+Perméabilité LHS: 67.191 µm²
+Perméabilité calculée: 23.805 µm²
+Porosité effective: 0.899600
+Nombre de Reynolds: 0.004143
+---------------------------------------
+Sample 101:
+Diamètre moyen des fibres: 12.500 µm
+Porosité: 0.893783
+Perméabilité LHS: 87.964 µm²
+Perméabilité calculée: 18.584 µm²
+Porosité effective: 0.888000
+Nombre de Reynolds: 0.002930
+---------------------------------------
+Sample 102:
+Diamètre moyen des fibres: 12.500 µm
+Porosité: 0.898061
+Perméabilité LHS: 78.619 µm²
+Perméabilité calculée: 22.375 µm²
+Porosité effective: 0.892800
+Nombre de Reynolds: 0.003681
+---------------------------------------
+Sample 103:
+Diamètre moyen des fibres: 12.500 µm
+Porosité: 0.886419
+Perméabilité LHS: 83.698 µm²
+Perméabilité calculée: 15.848 µm²
+Porosité effective: 0.884000
+Nombre de Reynolds: 0.002381
+---------------------------------------
+Sample 104:
+Diamètre moyen des fibres: 12.500 µm
+Porosité: 0.900662
+Perméabilité LHS: 90.333 µm²
+Perméabilité calculée: 23.805 µm²
+Porosité effective: 0.899600
+Nombre de Reynolds: 0.004143
+---------------------------------------
+Sample 105:
+Diamètre moyen des fibres: 12.500 µm
+Porosité: 0.905616
+Perméabilité LHS: 109.823 µm²
+Perméabilité calculée: 23.438 µm²
+Porosité effective: 0.903000
+Nombre de Reynolds: 0.004225
+---------------------------------------
+Sample 106:
+Diamètre moyen des fibres: 12.500 µm
+Porosité: 0.895323
+Perméabilité LHS: 71.150 µm²
+Perméabilité calculée: 22.375 µm²
+Porosité effective: 0.892800
+Nombre de Reynolds: 0.003681
+---------------------------------------
+Sample 107:
+Diamètre moyen des fibres: 12.500 µm
+Porosité: 0.894235
+Perméabilité LHS: 77.017 µm²
+Perméabilité calculée: 18.584 µm²
+Porosité effective: 0.888000
+Nombre de Reynolds: 0.002930
+---------------------------------------
+Sample 108:
+Diamètre moyen des fibres: 12.500 µm
+Porosité: 0.896563
+Perméabilité LHS: 84.263 µm²
+Perméabilité calculée: 22.375 µm²
+Porosité effective: 0.892800
+Nombre de Reynolds: 0.003681
+---------------------------------------
+Sample 109:
+Diamètre moyen des fibres: 12.500 µm
+Porosité: 0.910072
+Perméabilité LHS: 81.090 µm²
+Perméabilité calculée: 25.064 µm²
+Porosité effective: 0.907800
+Nombre de Reynolds: 0.004742
+---------------------------------------
+Sample 110:
+Diamètre moyen des fibres: 12.500 µm
+Porosité: 0.908589
+Perméabilité LHS: 78.088 µm²
+Perméabilité calculée: 23.438 µm²
+Porosité effective: 0.903000
+Nombre de Reynolds: 0.004225
+---------------------------------------
+Sample 111:
+Diamètre moyen des fibres: 12.500 µm
+Porosité: 0.899570
+Perméabilité LHS: 87.013 µm²
+Perméabilité calculée: 22.375 µm²
+Porosité effective: 0.892800
+Nombre de Reynolds: 0.003681
+---------------------------------------
+Sample 112:
+Diamètre moyen des fibres: 12.500 µm
+Porosité: 0.891118
+Perméabilité LHS: 97.331 µm²
+Perméabilité calculée: 15.848 µm²
+Porosité effective: 0.885600
+Nombre de Reynolds: 0.002433
+---------------------------------------
+Sample 113:
+Diamètre moyen des fibres: 12.500 µm
+Porosité: 0.886150
+Perméabilité LHS: 55.657 µm²
+Perméabilité calculée: 23.222 µm²
+Porosité effective: 0.880500
+Nombre de Reynolds: 0.003386
+---------------------------------------
+Sample 114:
+Diamètre moyen des fibres: 12.500 µm
+Porosité: 0.905791
+Perméabilité LHS: 77.116 µm²
+Perméabilité calculée: 23.438 µm²
+Porosité effective: 0.903000
+Nombre de Reynolds: 0.004225
+---------------------------------------
+Sample 115:
+Diamètre moyen des fibres: 12.500 µm
+Porosité: 0.896766
+Perméabilité LHS: 100.706 µm²
+Perméabilité calculée: 22.375 µm²
+Porosité effective: 0.892800
+Nombre de Reynolds: 0.003681
+---------------------------------------
+Sample 116:
+Diamètre moyen des fibres: 12.500 µm
+Porosité: 0.906840
+Perméabilité LHS: 88.266 µm²
+Perméabilité calculée: 23.438 µm²
+Porosité effective: 0.903000
+Nombre de Reynolds: 0.004225
+---------------------------------------
+Sample 117:
+Diamètre moyen des fibres: 12.500 µm
+Porosité: 0.910321
+Perméabilité LHS: 77.703 µm²
+Perméabilité calculée: 25.064 µm²
+Porosité effective: 0.907800
+Nombre de Reynolds: 0.004742
+---------------------------------------
+Sample 118:
+Diamètre moyen des fibres: 12.500 µm
+Porosité: 0.903775
+Perméabilité LHS: 87.470 µm²
+Perméabilité calculée: 23.805 µm²
+Porosité effective: 0.899600
+Nombre de Reynolds: 0.004143
+---------------------------------------
+Sample 119:
+Diamètre moyen des fibres: 12.500 µm
+Porosité: 0.899209
+Perméabilité LHS: 91.201 µm²
+Perméabilité calculée: 22.375 µm²
+Porosité effective: 0.892800
+Nombre de Reynolds: 0.003681
+---------------------------------------
+Sample 120:
+Diamètre moyen des fibres: 12.500 µm
+Porosité: 0.891989
+Perméabilité LHS: 111.059 µm²
+Perméabilité calculée: 18.584 µm²
+Porosité effective: 0.888000
+Nombre de Reynolds: 0.002930
+---------------------------------------
+Sample 121:
+Diamètre moyen des fibres: 12.500 µm
+Porosité: 0.909558
+Perméabilité LHS: 74.454 µm²
+Perméabilité calculée: 25.064 µm²
+Porosité effective: 0.907800
+Nombre de Reynolds: 0.004742
+---------------------------------------
+Sample 122:
+Diamètre moyen des fibres: 12.500 µm
+Porosité: 0.895591
+Perméabilité LHS: 85.844 µm²
+Perméabilité calculée: 22.375 µm²
+Porosité effective: 0.892800
+Nombre de Reynolds: 0.003681
+---------------------------------------
+Sample 123:
+Diamètre moyen des fibres: 12.500 µm
+Porosité: 0.904220
+Perméabilité LHS: 96.326 µm²
+Perméabilité calculée: 23.805 µm²
+Porosité effective: 0.899600
+Nombre de Reynolds: 0.004143
+---------------------------------------
+Sample 124:
+Diamètre moyen des fibres: 12.500 µm
+Porosité: 0.911973
+Perméabilité LHS: 125.736 µm²
+Perméabilité calculée: 25.064 µm²
+Porosité effective: 0.907800
+Nombre de Reynolds: 0.004742
+---------------------------------------
+Sample 125:
+Diamètre moyen des fibres: 12.500 µm
+Porosité: 0.897579
+Perméabilité LHS: 80.929 µm²
+Perméabilité calculée: 22.375 µm²
+Porosité effective: 0.892800
+Nombre de Reynolds: 0.003681
+---------------------------------------
+Sample 126:
+Diamètre moyen des fibres: 12.500 µm
+Porosité: 0.905924
+Perméabilité LHS: 100.274 µm²
+Perméabilité calculée: 23.438 µm²
+Porosité effective: 0.903000
+Nombre de Reynolds: 0.004225
+---------------------------------------
+Sample 127:
+Diamètre moyen des fibres: 12.500 µm
+Porosité: 0.911367
+Perméabilité LHS: 98.281 µm²
+Perméabilité calculée: 25.064 µm²
+Porosité effective: 0.907800
+Nombre de Reynolds: 0.004742
+---------------------------------------
+Sample 128:
+Diamètre moyen des fibres: 12.500 µm
+Porosité: 0.898392
+Perméabilité LHS: 73.102 µm²
+Perméabilité calculée: 22.375 µm²
+Porosité effective: 0.892800
+Nombre de Reynolds: 0.003681
+---------------------------------------
+Sample 129:
+Diamètre moyen des fibres: 12.500 µm
+Porosité: 0.885106
+Perméabilité LHS: 85.185 µm²
+Perméabilité calculée: 23.222 µm²
+Porosité effective: 0.880500
+Nombre de Reynolds: 0.003386
+---------------------------------------
+Sample 130:
+Diamètre moyen des fibres: 12.500 µm
+Porosité: 0.887041
+Perméabilité LHS: 76.097 µm²
+Perméabilité calculée: 15.848 µm²
+Porosité effective: 0.884000
+Nombre de Reynolds: 0.002381
+---------------------------------------
+Sample 131:
+Diamètre moyen des fibres: 12.500 µm
+Porosité: 0.905248
+Perméabilité LHS: 54.857 µm²
+Perméabilité calculée: 23.438 µm²
+Porosité effective: 0.903000
+Nombre de Reynolds: 0.004225
+---------------------------------------
+Sample 132:
+Diamètre moyen des fibres: 12.500 µm
+Porosité: 0.901581
+Perméabilité LHS: 99.815 µm²
+Perméabilité calculée: 23.805 µm²
+Porosité effective: 0.899600
+Nombre de Reynolds: 0.004143
+---------------------------------------
+Sample 133:
+Diamètre moyen des fibres: 12.500 µm
+Porosité: 0.901044
+Perméabilité LHS: 91.697 µm²
+Perméabilité calculée: 23.805 µm²
+Porosité effective: 0.899600
+Nombre de Reynolds: 0.004143
+---------------------------------------
+Sample 134:
+Diamètre moyen des fibres: 12.500 µm
+Porosité: 0.891624
+Perméabilité LHS: 81.561 µm²
+Perméabilité calculée: 18.584 µm²
+Porosité effective: 0.888000
+Nombre de Reynolds: 0.002930
+---------------------------------------
+Sample 135:
+Diamètre moyen des fibres: 12.500 µm
+Porosité: 0.887779
+Perméabilité LHS: 76.500 µm²
+Perméabilité calculée: 15.848 µm²
+Porosité effective: 0.884000
+Nombre de Reynolds: 0.002381
+---------------------------------------
+Sample 136:
+Diamètre moyen des fibres: 12.500 µm
+Porosité: 0.895804
+Perméabilité LHS: 95.029 µm²
+Perméabilité calculée: 22.375 µm²
+Porosité effective: 0.892800
+Nombre de Reynolds: 0.003681
+---------------------------------------
+Sample 137:
+Diamètre moyen des fibres: 12.500 µm
+Porosité: 0.902304
+Perméabilité LHS: 86.442 µm²
+Perméabilité calculée: 23.805 µm²
+Porosité effective: 0.899600
+Nombre de Reynolds: 0.004143
+---------------------------------------
+Sample 138:
+Diamètre moyen des fibres: 12.500 µm
+Porosité: 0.900282
+Perméabilité LHS: 84.061 µm²
+Perméabilité calculée: 23.805 µm²
+Porosité effective: 0.899600
+Nombre de Reynolds: 0.004143
+---------------------------------------
+Sample 139:
+Diamètre moyen des fibres: 12.500 µm
+Porosité: 0.900026
+Perméabilité LHS: 64.950 µm²
+Perméabilité calculée: 22.375 µm²
+Porosité effective: 0.892800
+Nombre de Reynolds: 0.003681
+---------------------------------------
+Sample 140:
+Diamètre moyen des fibres: 12.500 µm
+Porosité: 0.891846
+Perméabilité LHS: 67.732 µm²
+Perméabilité calculée: 18.584 µm²
+Porosité effective: 0.888000
+Nombre de Reynolds: 0.002930
+---------------------------------------
+Sample 141:
+Diamètre moyen des fibres: 12.500 µm
+Porosité: 0.888547
+Perméabilité LHS: 39.723 µm²
+Perméabilité calculée: 15.848 µm²
+Porosité effective: 0.884000
+Nombre de Reynolds: 0.002381
+---------------------------------------
+Sample 142:
+Diamètre moyen des fibres: 12.500 µm
+Porosité: 0.892828
+Perméabilité LHS: 73.695 µm²
+Perméabilité calculée: 18.584 µm²
+Porosité effective: 0.888000
+Nombre de Reynolds: 0.002930
+---------------------------------------
+Sample 143:
+Diamètre moyen des fibres: 12.500 µm
+Porosité: 0.887339
+Perméabilité LHS: 74.617 µm²
+Perméabilité calculée: 15.848 µm²
+Porosité effective: 0.884000
+Nombre de Reynolds: 0.002381
+---------------------------------------
+Sample 144:
+Diamètre moyen des fibres: 12.500 µm
+Porosité: 0.905076
+Perméabilité LHS: 80.445 µm²
+Perméabilité calculée: 23.438 µm²
+Porosité effective: 0.903000
+Nombre de Reynolds: 0.004225
+---------------------------------------
+Sample 145:
+Diamètre moyen des fibres: 12.500 µm
+Porosité: 0.896340
+Perméabilité LHS: 79.958 µm²
+Perméabilité calculée: 22.375 µm²
+Porosité effective: 0.892800
+Nombre de Reynolds: 0.003681
+---------------------------------------
+Sample 146:
+Diamètre moyen des fibres: 12.500 µm
+Porosité: 0.902844
+Perméabilité LHS: 67.544 µm²
+Perméabilité calculée: 23.805 µm²
+Porosité effective: 0.899600
+Nombre de Reynolds: 0.004143
+---------------------------------------
+Sample 147:
+Diamètre moyen des fibres: 12.500 µm
+Porosité: 0.914024
+Perméabilité LHS: 97.706 µm²
+Perméabilité calculée: 24.972 µm²
+Porosité effective: 0.910600
+Nombre de Reynolds: 0.004870
+---------------------------------------
+Sample 148:
+Diamètre moyen des fibres: 12.500 µm
+Porosité: 0.904649
+Perméabilité LHS: 65.120 µm²
+Perméabilité calculée: 23.805 µm²
+Porosité effective: 0.899600
+Nombre de Reynolds: 0.004143
+---------------------------------------
+Sample 149:
+Diamètre moyen des fibres: 12.500 µm
+Porosité: 0.903624
+Perméabilité LHS: 66.060 µm²
+Perméabilité calculée: 23.805 µm²
+Porosité effective: 0.899600
+Nombre de Reynolds: 0.004143
+---------------------------------------
+Sample 150:
+Diamètre moyen des fibres: 12.500 µm
+Porosité: 0.909171
+Perméabilité LHS: 73.934 µm²
+Perméabilité calculée: 25.064 µm²
+Porosité effective: 0.907800
+Nombre de Reynolds: 0.004742
+---------------------------------------
+Sample 151:
+Diamètre moyen des fibres: 12.500 µm
+Porosité: 0.903584
+Perméabilité LHS: 73.033 µm²
+Perméabilité calculée: 23.805 µm²
+Porosité effective: 0.899600
+Nombre de Reynolds: 0.004143
+---------------------------------------
+Sample 152:
+Diamètre moyen des fibres: 12.500 µm
+Porosité: 0.898801
+Perméabilité LHS: 78.297 µm²
+Perméabilité calculée: 22.375 µm²
+Porosité effective: 0.892800
+Nombre de Reynolds: 0.003681
+---------------------------------------
+Sample 153:
+Diamètre moyen des fibres: 12.500 µm
+Porosité: 0.911995
+Perméabilité LHS: 92.471 µm²
+Perméabilité calculée: 25.064 µm²
+Porosité effective: 0.907800
+Nombre de Reynolds: 0.004742
+---------------------------------------
+Sample 154:
+Diamètre moyen des fibres: 12.500 µm
+Porosité: 0.890184
+Perméabilité LHS: 95.763 µm²
+Perméabilité calculée: 15.848 µm²
+Porosité effective: 0.885600
+Nombre de Reynolds: 0.002433
+---------------------------------------
+Sample 155:
+Diamètre moyen des fibres: 12.500 µm
+Porosité: 0.879916
+Perméabilité LHS: 78.993 µm²
+Perméabilité calculée: 17.058 µm²
+Porosité effective: 0.876000
+Nombre de Reynolds: 0.002386
+---------------------------------------
+Sample 156:
+Diamètre moyen des fibres: 12.500 µm
+Porosité: 0.897907
+Perméabilité LHS: 61.086 µm²
+Perméabilité calculée: 22.375 µm²
+Porosité effective: 0.892800
+Nombre de Reynolds: 0.003681
+---------------------------------------
+Sample 157:
+Diamètre moyen des fibres: 12.500 µm
+Porosité: 0.899690
+Perméabilité LHS: 60.202 µm²
+Perméabilité calculée: 22.375 µm²
+Porosité effective: 0.892800
+Nombre de Reynolds: 0.003681
+---------------------------------------
+Sample 158:
+Diamètre moyen des fibres: 12.500 µm
+Porosité: 0.914705
+Perméabilité LHS: 105.429 µm²
+Perméabilité calculée: 24.972 µm²
+Porosité effective: 0.910600
+Nombre de Reynolds: 0.004870
+---------------------------------------
+Sample 159:
+Diamètre moyen des fibres: 12.500 µm
+Porosité: 0.907258
+Perméabilité LHS: 79.723 µm²
+Perméabilité calculée: 23.438 µm²
+Porosité effective: 0.903000
+Nombre de Reynolds: 0.004225
+---------------------------------------
+Sample 160:
+Diamètre moyen des fibres: 12.500 µm
+Porosité: 0.903061
+Perméabilité LHS: 64.241 µm²
+Perméabilité calculée: 23.805 µm²
+Porosité effective: 0.899600
+Nombre de Reynolds: 0.004143
+---------------------------------------
+Sample 161:
+Diamètre moyen des fibres: 12.500 µm
+Porosité: 0.912705
+Perméabilité LHS: 87.807 µm²
+Perméabilité calculée: 25.064 µm²
+Porosité effective: 0.907800
+Nombre de Reynolds: 0.004742
+---------------------------------------
+Sample 162:
+Diamètre moyen des fibres: 12.500 µm
+Porosité: 0.901829
+Perméabilité LHS: 74.867 µm²
+Perméabilité calculée: 23.805 µm²
+Porosité effective: 0.899600
+Nombre de Reynolds: 0.004143
+---------------------------------------
+Sample 163:
+Diamètre moyen des fibres: 12.500 µm
+Porosité: 0.903934
+Perméabilité LHS: 63.646 µm²
+Perméabilité calculée: 23.805 µm²
+Porosité effective: 0.899600
+Nombre de Reynolds: 0.004143
+---------------------------------------
+Sample 164:
+Diamètre moyen des fibres: 12.500 µm
+Porosité: 0.894683
+Perméabilité LHS: 69.485 µm²
+Perméabilité calculée: 18.584 µm²
+Porosité effective: 0.888000
+Nombre de Reynolds: 0.002930
+---------------------------------------
+Sample 165:
+Diamètre moyen des fibres: 12.500 µm
+Porosité: 0.901146
+Perméabilité LHS: 62.743 µm²
+Perméabilité calculée: 23.805 µm²
+Porosité effective: 0.899600
+Nombre de Reynolds: 0.004143
+---------------------------------------
+Sample 166:
+Diamètre moyen des fibres: 12.500 µm
+Porosité: 0.904549
+Perméabilité LHS: 93.125 µm²
+Perméabilité calculée: 23.805 µm²
+Porosité effective: 0.899600
+Nombre de Reynolds: 0.004143
+---------------------------------------
+Sample 167:
+Diamètre moyen des fibres: 12.500 µm
+Porosité: 0.912871
+Perméabilité LHS: 84.810 µm²
+Perméabilité calculée: 25.064 µm²
+Porosité effective: 0.907800
+Nombre de Reynolds: 0.004742
+---------------------------------------
+Sample 168:
+Diamètre moyen des fibres: 12.500 µm
+Porosité: 0.914169
+Perméabilité LHS: 90.085 µm²
+Perméabilité calculée: 24.972 µm²
+Porosité effective: 0.910600
+Nombre de Reynolds: 0.004870
+---------------------------------------
+Sample 169:
+Diamètre moyen des fibres: 12.500 µm
+Porosité: 0.908441
+Perméabilité LHS: 109.313 µm²
+Perméabilité calculée: 23.438 µm²
+Porosité effective: 0.903000
+Nombre de Reynolds: 0.004225
+---------------------------------------
+Sample 170:
+Diamètre moyen des fibres: 12.500 µm
+Porosité: 0.895221
+Perméabilité LHS: 91.848 µm²
+Perméabilité calculée: 22.375 µm²
+Porosité effective: 0.892800
+Nombre de Reynolds: 0.003681
+---------------------------------------
+Sample 171:
+Diamètre moyen des fibres: 12.500 µm
+Porosité: 0.892881
+Perméabilité LHS: 96.793 µm²
+Perméabilité calculée: 18.584 µm²
+Porosité effective: 0.888000
+Nombre de Reynolds: 0.002930
+---------------------------------------
+Sample 172:
+Diamètre moyen des fibres: 12.500 µm
+Porosité: 0.902894
+Perméabilité LHS: 82.060 µm²
+Perméabilité calculée: 23.805 µm²
+Porosité effective: 0.899600
+Nombre de Reynolds: 0.004143
+---------------------------------------
+Sample 173:
+Diamètre moyen des fibres: 12.500 µm
+Porosité: 0.893012
+Perméabilité LHS: 81.879 µm²
+Perméabilité calculée: 18.584 µm²
+Porosité effective: 0.888000
+Nombre de Reynolds: 0.002930
+---------------------------------------
+Sample 174:
+Diamètre moyen des fibres: 12.500 µm
+Porosité: 0.896433
+Perméabilité LHS: 77.497 µm²
+Perméabilité calculée: 22.375 µm²
+Porosité effective: 0.892800
+Nombre de Reynolds: 0.003681
+---------------------------------------
+Sample 175:
+Diamètre moyen des fibres: 12.500 µm
+Porosité: 0.907790
+Perméabilité LHS: 107.460 µm²
+Perméabilité calculée: 23.438 µm²
+Porosité effective: 0.903000
+Nombre de Reynolds: 0.004225
+---------------------------------------
+Sample 176:
+Diamètre moyen des fibres: 12.500 µm
+Porosité: 0.892148
+Perméabilité LHS: 57.711 µm²
+Perméabilité calculée: 18.584 µm²
+Porosité effective: 0.888000
+Nombre de Reynolds: 0.002930
+---------------------------------------
+Sample 177:
+Diamètre moyen des fibres: 12.500 µm
+Porosité: 0.903931
+Perméabilité LHS: 89.864 µm²
+Perméabilité calculée: 23.805 µm²
+Porosité effective: 0.899600
+Nombre de Reynolds: 0.004143
+---------------------------------------
+Sample 178:
+Diamètre moyen des fibres: 12.500 µm
+Porosité: 0.899981
+Perméabilité LHS: 89.641 µm²
+Perméabilité calculée: 22.375 µm²
+Porosité effective: 0.892800
+Nombre de Reynolds: 0.003681
+---------------------------------------
+Sample 179:
+Diamètre moyen des fibres: 12.500 µm
+Porosité: 0.903130
+Perméabilité LHS: 92.434 µm²
+Perméabilité calculée: 23.805 µm²
+Porosité effective: 0.899600
+Nombre de Reynolds: 0.004143
+---------------------------------------
+Sample 180:
+Diamètre moyen des fibres: 12.500 µm
+Porosité: 0.895505
+Perméabilité LHS: 51.016 µm²
+Perméabilité calculée: 22.375 µm²
+Porosité effective: 0.892800
+Nombre de Reynolds: 0.003681
+---------------------------------------
+Sample 181:
+Diamètre moyen des fibres: 12.500 µm
+Porosité: 0.910759
+Perméabilité LHS: 73.355 µm²
+Perméabilité calculée: 25.064 µm²
+Porosité effective: 0.907800
+Nombre de Reynolds: 0.004742
+---------------------------------------
+Sample 182:
+Diamètre moyen des fibres: 12.500 µm
+Porosité: 0.911066
+Perméabilité LHS: 46.610 µm²
+Perméabilité calculée: 25.064 µm²
+Porosité effective: 0.907800
+Nombre de Reynolds: 0.004742
+---------------------------------------
+Sample 183:
+Diamètre moyen des fibres: 12.500 µm
+Porosité: 0.894570
+Perméabilité LHS: 90.662 µm²
+Perméabilité calculée: 18.584 µm²
+Porosité effective: 0.888000
+Nombre de Reynolds: 0.002930
+---------------------------------------
+Sample 184:
+Diamètre moyen des fibres: 12.500 µm
+Porosité: 0.898287
+Perméabilité LHS: 68.905 µm²
+Perméabilité calculée: 22.375 µm²
+Porosité effective: 0.892800
+Nombre de Reynolds: 0.003681
+---------------------------------------
+Sample 185:
+Diamètre moyen des fibres: 12.500 µm
+Porosité: 0.909363
+Perméabilité LHS: 92.000 µm²
+Perméabilité calculée: 25.064 µm²
+Porosité effective: 0.907800
+Nombre de Reynolds: 0.004742
+---------------------------------------
+Sample 186:
+Diamètre moyen des fibres: 12.500 µm
+Porosité: 0.906990
+Perméabilité LHS: 83.873 µm²
+Perméabilité calculée: 23.438 µm²
+Porosité effective: 0.903000
+Nombre de Reynolds: 0.004225
+---------------------------------------
+Sample 187:
+Diamètre moyen des fibres: 12.500 µm
+Porosité: 0.896646
+Perméabilité LHS: 93.986 µm²
+Perméabilité calculée: 22.375 µm²
+Porosité effective: 0.892800
+Nombre de Reynolds: 0.003681
+---------------------------------------
+Sample 188:
+Diamètre moyen des fibres: 12.500 µm
+Porosité: 0.899853
+Perméabilité LHS: 65.871 µm²
+Perméabilité calculée: 22.375 µm²
+Porosité effective: 0.892800
+Nombre de Reynolds: 0.003681
+---------------------------------------
+Sample 189:
+Diamètre moyen des fibres: 12.500 µm
+Porosité: 0.905041
+Perméabilité LHS: 78.005 µm²
+Perméabilité calculée: 23.438 µm²
+Porosité effective: 0.903000
+Nombre de Reynolds: 0.004225
+---------------------------------------
+Sample 190:
+Diamètre moyen des fibres: 12.500 µm
+Porosité: 0.899356
+Perméabilité LHS: 84.644 µm²
+Perméabilité calculée: 22.375 µm²
+Porosité effective: 0.892800
+Nombre de Reynolds: 0.003681
+---------------------------------------
+Sample 191:
+Diamètre moyen des fibres: 12.500 µm
+Porosité: 0.904738
+Perméabilité LHS: 90.875 µm²
+Perméabilité calculée: 23.805 µm²
+Porosité effective: 0.899600
+Nombre de Reynolds: 0.004143
+---------------------------------------
+Sample 192:
+Diamètre moyen des fibres: 12.500 µm
+Porosité: 0.906329
+Perméabilité LHS: 107.120 µm²
+Perméabilité calculée: 23.438 µm²
+Porosité effective: 0.903000
+Nombre de Reynolds: 0.004225
+---------------------------------------
+Sample 193:
+Diamètre moyen des fibres: 12.500 µm
+Porosité: 0.896176
+Perméabilité LHS: 75.617 µm²
+Perméabilité calculée: 22.375 µm²
+Porosité effective: 0.892800
+Nombre de Reynolds: 0.003681
+---------------------------------------
+Sample 194:
+Diamètre moyen des fibres: 12.500 µm
+Porosité: 0.908123
+Perméabilité LHS: 94.422 µm²
+Perméabilité calculée: 23.438 µm²
+Porosité effective: 0.903000
+Nombre de Reynolds: 0.004225
+---------------------------------------
+Sample 195:
+Diamètre moyen des fibres: 12.500 µm
+Porosité: 0.888947
+Perméabilité LHS: 83.380 µm²
+Perméabilité calculée: 15.848 µm²
+Porosité effective: 0.884000
+Nombre de Reynolds: 0.002381
+---------------------------------------
+Sample 196:
+Diamètre moyen des fibres: 12.500 µm
+Porosité: 0.899523
+Perméabilité LHS: 60.801 µm²
+Perméabilité calculée: 22.375 µm²
+Porosité effective: 0.892800
+Nombre de Reynolds: 0.003681
+---------------------------------------
+Sample 197:
+Diamètre moyen des fibres: 12.500 µm
+Porosité: 0.893397
+Perméabilité LHS: 72.665 µm²
+Perméabilité calculée: 18.584 µm²
+Porosité effective: 0.888000
+Nombre de Reynolds: 0.002930
+---------------------------------------
+Sample 198:
+Diamètre moyen des fibres: 12.500 µm
+Porosité: 0.897401
+Perméabilité LHS: 85.058 µm²
+Perméabilité calculée: 22.375 µm²
+Porosité effective: 0.892800
+Nombre de Reynolds: 0.003681
+---------------------------------------
+Sample 199:
+Diamètre moyen des fibres: 12.500 µm
+Porosité: 0.897740
+Perméabilité LHS: 89.507 µm²
+Perméabilité calculée: 22.375 µm²
+Porosité effective: 0.892800
+Nombre de Reynolds: 0.003681
+---------------------------------------
+Sample 200:
+Diamètre moyen des fibres: 12.500 µm
+Porosité: 0.904333
+Perméabilité LHS: 62.062 µm²
+Perméabilité calculée: 23.805 µm²
+Porosité effective: 0.899600
+Nombre de Reynolds: 0.004143
+---------------------------------------
+
+Incertitude totale u_input: 2.685 µm²
